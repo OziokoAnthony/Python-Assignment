@@ -1,6 +1,6 @@
 # Python Exercises Solutions
 
-FIRST PYTHON CLASS AND TOPIC THOUGHT
+FIRST PYTHON CLASS AND TOPIC TAUGHT
 01-05  Basic Syntax & Variables
 06-10  Data Types & Conversions
 11-15  Operators & Expressions
