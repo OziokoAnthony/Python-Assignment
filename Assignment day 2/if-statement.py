@@ -1,5 +1,5 @@
 
-# EXERCISE 5-3: ALIEN COLORS #1
+#  ALIEN COLORS #1
 
 print("--- Exercise 5-3: Alien Colors #1 ---")
 
@@ -15,7 +15,7 @@ if alien_color == 'green':
 
 
 
-# EXERCISE 5-4: ALIEN COLORS #2
+#  ALIEN COLORS #2
 
 print("\n--- Exercise 5-4: Alien Colors #2 ---")
 
@@ -67,7 +67,7 @@ else:
     print("Red Alien: The player earned 15 points.")
 
 
-# EXERCISE 5-6: STAGES OF LIFE
+#  STAGES OF LIFE
 
 print("\n--- Exercise 5-6: Stages of Life ---")
 
