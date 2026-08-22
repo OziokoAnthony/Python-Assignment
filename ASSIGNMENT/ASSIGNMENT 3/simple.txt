@@ -1,0 +1,3 @@
+The quick brown fox jumps over the dog.
+The dog runs through the garden.
+The garden is near the house.
